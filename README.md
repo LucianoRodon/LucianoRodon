@@ -43,6 +43,19 @@ Pipelines de agentes aplicados al ciclo de desarrollo SAP —análisis, diseño 
 
 ---
 
+## 🧩 Algunos proyectos
+
+**Bot de WhatsApp para atención ciudadana**
+Bot conversacional para una comuna: recibe reclamos, responde consultas de trámites y deriva al sector correspondiente según el tema. Node.js, integración con la API de WhatsApp y un modelo de lenguaje para interpretar los mensajes. En producción.
+
+**Pipeline de agentes para desarrollo SAP CAP**
+Cadena de agentes por rol —análisis, diseño técnico, desarrollo, QA— aplicada a proyectos CAP. En uso diario por el equipo de desarrollo.
+
+**Documentación SAP asistida por IA**
+Asistentes que generan la documentación funcional de un proyecto —casos de uso, especificaciones funcionales, casos de prueba— a partir del material que traen los consultores, respetando los templates de la empresa.
+
+---
+
 ## 📫 Contacto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luciano-rodon/)
