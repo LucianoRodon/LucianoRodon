@@ -1,8 +1,8 @@
 # Hola, soy Luciano Rodon 👋
 
-**Desarrollador freelance y consultor funcional SAP** — Rosario, Argentina.
+**Desarrollador freelance · Desarrollo SAP (BTP, Fiori/UI5, CAP, MDK) y web a medida** — Rosario, Argentina.
 
-Trabajo en dos frentes que suelo cruzar: desarrollo de software a medida (backend y web) y consultoría SAP, tanto funcional como técnica. Encaro proyectos de punta a punta: relevamiento, documentación funcional, arquitectura, desarrollo y puesta en producción.
+Trabajo en dos frentes que suelo cruzar: desarrollo de software a medida (backend y web) y desarrollo sobre la plataforma SAP. Encaro proyectos de punta a punta: relevamiento, arquitectura, desarrollo y puesta en producción.
 
 ---
 
@@ -22,9 +22,10 @@ Trabajo en dos frentes que suelo cruzar: desarrollo de software a medida (backen
 **SAP**
 
 ![SAPUI5](https://img.shields.io/badge/SAPUI5-0FAAFF?style=flat&logo=sap&logoColor=white)
+![Fiori](https://img.shields.io/badge/Fiori-0FAAFF?style=flat&logo=sap&logoColor=white)
 ![SAP BTP](https://img.shields.io/badge/SAP%20BTP-0FAAFF?style=flat&logo=sap&logoColor=white)
-![SAP MDK](https://img.shields.io/badge/Mobile%20Dev%20Kit-0FAAFF?style=flat&logo=sap&logoColor=white)
 ![CAP](https://img.shields.io/badge/CAP-0FAAFF?style=flat&logo=sap&logoColor=white)
+![SAP MDK](https://img.shields.io/badge/Mobile%20Dev%20Kit-0FAAFF?style=flat&logo=sap&logoColor=white)
 ![OData](https://img.shields.io/badge/OData%20v2-0FAAFF?style=flat&logo=sap&logoColor=white)
 
 ---
@@ -34,11 +35,11 @@ Trabajo en dos frentes que suelo cruzar: desarrollo de software a medida (backen
 **Desarrollo a medida**
 Sistemas de gestión web para empresas que arrancaron en Excel y lo superaron. Modelado de datos, multi-empresa, multi-moneda, cálculo de costos y márgenes, información geoespacial con PostGIS.
 
-**SAP**
-Consultoría funcional y desarrollo sobre la plataforma: aplicaciones SAPUI5 y Mobile Development Kit, servicios OData, extensiones en BTP, y documentación funcional estructurada (casos de uso, especificaciones funcionales, casos de prueba).
+**Desarrollo SAP**
+Aplicaciones SAPUI5 y Fiori, apps móviles con Mobile Development Kit, servicios y modelos de datos con CAP, consumo de servicios OData y extensiones sobre BTP.
 
 **Automatización con IA**
-Diseño de pipelines de agentes aplicados al ciclo de desarrollo SAP —análisis funcional, diseño técnico, desarrollo, QA— y asistentes que generan documentación de proyecto a partir de material real de los equipos.
+Pipelines de agentes aplicados al ciclo de desarrollo SAP —análisis, diseño técnico, desarrollo, QA— y asistentes que generan documentación de proyecto (casos de uso, especificaciones funcionales, casos de prueba) a partir del material real de los equipos.
 
 ---
 
