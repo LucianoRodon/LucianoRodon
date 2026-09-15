@@ -1,6 +1,6 @@
 # Hola, soy Luciano Rodon 👋
 
-**Desarrollador freelance · Desarrollo SAP (BTP, Fiori/UI5, CAP, MDK) y web a medida** — Rosario, Argentina.
+**Desarrollador de Software · SAP (BTP, Fiori/UI5, CAP, MDK) y web a medida** — Rosario, Argentina.
 
 Trabajo en dos frentes que suelo cruzar: desarrollo de software a medida (backend y web) y desarrollo sobre la plataforma SAP. Encaro proyectos de punta a punta: relevamiento, arquitectura, desarrollo y puesta en producción.
 
